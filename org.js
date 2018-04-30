@@ -16,7 +16,7 @@ function RegisterOrganization() {
         
       });
 
-   window.location.href = "./Org.html";
+   window.location.href = "./Organizations.html";
 
 };
 
